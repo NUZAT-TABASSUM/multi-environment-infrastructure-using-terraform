@@ -1,10 +1,10 @@
 # Backend Variables
 variable "state_bucket_name" {
-    default = "batch3-demo-state-bucket"
+    default = "bucket-645-nuzat1"
 }
 
 variable "state_table_name" {
-    default = "batch3-demo-state-table"
+    default = "table-645-nuzat1"
 }
 
 variable "aws_region" {
